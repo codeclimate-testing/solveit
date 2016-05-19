@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/gabrielgiordano/solveit.svg?branch=master)](https://travis-ci.org/gabrielgiordano/solveit)
 [![Code Climate](https://codeclimate.com/github/gabrielgiordano/solveit/badges/gpa.svg)](https://codeclimate.com/github/gabrielgiordano/solveit)
 
 # Solve It
