@@ -2,6 +2,8 @@ GEM
   remote: http://rubygems.org/
   specs:
     builder (3.2.2)
+    codeclimate-test-reporter (0.5.0)
+      simplecov (>= 0.7.1, < 1.0.0)
     cucumber (2.3.3)
       builder (>= 2.1.2)
       cucumber-core (~> 1.4.0)
@@ -14,7 +16,9 @@ GEM
       gherkin (~> 3.2.0)
     cucumber-wire (0.0.1)
     diff-lcs (1.2.5)
+    docile (1.1.5)
     gherkin (3.2.0)
+    json (1.8.3)
     multi_json (1.11.2)
     multi_test (0.1.2)
     rspec (3.4.0)
@@ -30,11 +34,17 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.4.0)
     rspec-support (3.4.1)
+    simplecov (0.11.2)
+      docile (~> 1.1.0)
+      json (~> 1.8)
+      simplecov-html (~> 0.10.0)
+    simplecov-html (0.10.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  codeclimate-test-reporter
   cucumber
   rspec
 
