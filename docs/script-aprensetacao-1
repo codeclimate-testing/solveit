@@ -1,0 +1,75 @@
+SolveIt
+  O mercado é cheio de problemas. Toda empresa, algum dia vai
+  precisar de algum tipo de consultoria em determinada área que
+  não possue expertise.
+
+  A gente acredita que é muito mais fácil dividir o problema em pequenas
+    partes e lidar com pedacinhos menores, um de cada vez, ao invez de
+    atacar ele por completo.
+  Algoritmos de computação, são um exemplo claro disso. Divisão e conquista
+  Toda ferramenta de diff facilita trabalha de forma mais localizada na
+    solução. Github é um exemplo claro disso.
+  Já existem pesquisas que mostram que a pratica de codereview quanto feita
+    no final de um projeto não é tão eficiente quanto quando ela é feita aos
+    poucos. Isso pode ser uma indicação de que trabalhar de maneira incremental
+    é mais eficiente.
+
+  A gente acredita que continuar o trabalho de alguem é mais eficiente
+    do que reinventar a roda e começar do zero.
+  Trabalhar de forma incremental, gerando a solução aos poucos irá
+    gerar um resultado melhor.
+  A ciência é uma evidencia claro disso, sem a metodologia cientifica
+    e um trabalho continuo em cima de trabalhos anteriores, não estariamos
+    onde estamos.
+  A cultura opensource é muito voltada para esse trabalho incremental.
+  Soluções opensource são viaveis por causa dessas pequenas colaborações.
+  Exemplo disso é Wikipedia, um lugar em que todo mundo colabora com pequenas
+    modificações para melhorar as páginas. E é o q é. Então pronto.
+
+  A gente também acredita que um universitário é um bicho carente e pobre que
+    tem ideias e habilidades suficientes para propor soluções para o mercado
+    e quem sabe ajudar gratuitamente aquelas empresas ou instituições de que
+    ele gosta ou é fã.
+  Algumas empresas podem até pagar esses universitários para gerarem soluções
+    para elas.
+  As pessoas poderiam até patrocinar aquelas projetos em que elas tem interesse.
+
+  A seguinte ideia não é minha, ela surgiu um dia no startup weekend
+    (evento para facilitar criação de startups google it)
+    e eu estou ajudando a implementar
+
+  A SolveIt é uma plataforma de criação de solução de problemas de forma
+    incremental. Ela une todas essas crenças e
+    propostas através do uso de tecnologia.
+
+  Eu também acredito que para entregarmos um software devemos nos preocupar
+    não só com fazer o software da forma certa, mas também fazer o software
+    certo para o cliente.
+  Identificar qual é o software certo envolve muito entender os objetivos e
+    visão de negócio do seu cliente. A microsoft já fez alguns estudos que
+    indicam que o sucesso de um projeto de software está intimamente ligado
+    com o organograma de uma empresa. Eles notaram que quanto maior for a
+    distancia no organograma de uma empresa entre os desenvolvedores e
+    as pessoas responsáveis pelas regras de negócio do sistema, maior é
+    a chance do projeto falhar. Isso pode ser um indicativo de que quando os
+    devs estão distante dos stakeholders, a visão de produto e objetivos de
+    negócio entre eles possivelmente não estará alinhada.
+  BDD behavior driven development é um processo de exploração, descoberta,
+    definição do comportamento do software, e condução do processo de
+    desenvolvimento. Isso é feito através de conversas, exemplos concretos e
+    testes automatizados.
+  BDD também é uma sintese e refinamento das praticas de TDD e ATDD.
+  BDD que é extremamente focado em entender qual valor de negócio o
+    seu software irá entregar e alinhar o desevolvimento de cada feature
+    com o impacto em um objetivo de negócio.
+  Por isso eu vou desenvolver esse projeto utilizando essa metodologia.
+
+  Colocar exemplo de teste de aceitação em cucumber.
+
+  No final de tudo, quero utilizar todo esse trabalho que foi gerado e
+    procurar avaliar de alguma forma a efetividade dos testes de aceitação,
+    criados através de BDD, como um facilitador da manutenção do software.
+
+  CRONOGRAMA HERE!
+
+  BLOG HERE
