@@ -1,4 +1,4 @@
-class Coverage
+class MyCoverage
   def do_nothing
     puts "Do nothing"
   end
